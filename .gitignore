@@ -1,0 +1,13 @@
+.github/**
+.pdf
+.csv
+*.DS_Store
+*__pycache__
+**/*.d.ts
+**/*.d.cts
+!**/types/**/*.d.ts
+npm-debug.log
+.tmp
+.idea
+.tmp_env
+.tgz
